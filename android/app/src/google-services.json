@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619517713533",
+    "firebase_url": "https://signing-26abe-default-rtdb.firebaseio.com",
+    "project_id": "signing-26abe",
+    "storage_bucket": "signing-26abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619517713533:android:bc2a6c68403701b9bde514",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619517713533-ilbqk2po9gltj4tthnr8n9b05ptg35rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab",
+            "certificate_hash": "a1371bc76f8ef20c70963ac6d702987741397293"
+          }
+        },
+        {
+          "client_id": "619517713533-0tgp5o115ms4s67m49tcdbi77pq5fokp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4b_XwtxZRbvfxxk0BtsC_K1Mt66_VRlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619517713533-0tgp5o115ms4s67m49tcdbi77pq5fokp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
